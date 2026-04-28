@@ -1,6 +1,8 @@
 ---
 title: Publications
 cms_exclude: true
+sort_by: publication_order
+sort_ascending: true
 
 # View.
 view: citation

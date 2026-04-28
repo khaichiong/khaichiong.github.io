@@ -1,5 +1,6 @@
 ---
 title: Steps
+draft: true
 linkTitle: Steps
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Project Structure
+draft: true
 weight: 1
 ---
 

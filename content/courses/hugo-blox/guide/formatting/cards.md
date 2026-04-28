@@ -1,5 +1,6 @@
 ---
 title: Cards
+draft: true
 linkTitle: Cards
 ---
 

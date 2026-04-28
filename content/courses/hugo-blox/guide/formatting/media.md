@@ -1,5 +1,6 @@
 ---
 title: Embed Media
+draft: true
 summary: Easily embed audio and video media in Hugo sites
 date: 2023-10-24
 ---

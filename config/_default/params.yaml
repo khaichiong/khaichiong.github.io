@@ -13,18 +13,19 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Khai X. Chiong"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Assistant Professor of Quantitative Marketing"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Personal academic website of Khai X. Chiong, assistant professor in the Marketing Area at the Naveen Jindal School of Management, University of Texas at Dallas. Research areas: Quantitative Marketing, Machine Learning, Econometrics, Networks, and Empirical Industrial Organization."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""
+      github: "khaichiong"
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -173,7 +174,10 @@ hugoblox:
   search:
     enable: true
     # Trending/suggested search terms
-    suggestions: []
+    suggestions:
+      - Quantitative Marketing
+      - Econometrics
+      - Machine Learning
     # Quick action shortcuts in search modal
     quick_actions: []
 

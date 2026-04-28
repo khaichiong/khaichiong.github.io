@@ -1,5 +1,6 @@
 ---
 title: "Example Talk: Recent Work"
+draft: true
 date: 2024-01-01
 # `type: slides` is inferred from folder, but can be set explicitly:
 type: slides
@@ -482,4 +483,3 @@ Or just the footer (author + footer text):
 4. Use `<!-- no-branding -->` for special slides
 
 **Pro tip:** Set site-wide defaults in `config/_default/params.yaml` under `slides.branding`!
-
