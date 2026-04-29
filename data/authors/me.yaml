@@ -44,16 +44,16 @@ interests:
 education:
   - degree: Ph.D. in Economics
     institution: California Institute of Technology, Pasadena, CA
-    year: 2010–2015
-    start: 2010
-    end: 2015
+    # year: 2010–2015
+    # start: 2010
+    # end: 2015
     summary: |
       Dissertation advisors: Federico Echenique, Matt Shum, and Leeat Yariv.
   - degree: B.A. in Economics
-    institution: University of Cambridge, Cambridge, UK
-    year: 2007–2010
-    start: 2007
-    end: 2010
+    institution: University of Cambridge, United Kingdom
+    # year: 2007–2010
+    # start: 2007
+    # end: 2010
     summary: |
       Part IA Tripos in Mathematics.
 

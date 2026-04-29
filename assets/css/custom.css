@@ -1,0 +1,12 @@
+/* Balance education cards: keep degrees prominent, but give institutions more weight. */
+#section-resume-biography-3 .grid .group p.text-xl.font-bold {
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+#section-resume-biography-3 .grid .group p.text-gray-700 {
+  font-size: 1.0625rem;
+  font-weight: 400;
+  line-height: 1.35;
+  margin-top: 0.5rem;
+}
