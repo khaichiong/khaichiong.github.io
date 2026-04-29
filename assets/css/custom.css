@@ -10,3 +10,10 @@
   line-height: 1.35;
   margin-top: 0.5rem;
 }
+
+/* Use two wider education cards on desktop instead of HugoBlox's default three-column grid. */
+@media (min-width: 1280px) {
+  #section-resume-biography-3 .md\:col-span-8 > .mb-16 .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
