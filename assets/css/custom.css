@@ -9,6 +9,7 @@
   font-weight: 400;
   line-height: 1.35;
   margin-top: 0.5rem;
+  white-space: pre-line;
 }
 
 /* Use two wider education cards on desktop instead of HugoBlox's default three-column grid. */

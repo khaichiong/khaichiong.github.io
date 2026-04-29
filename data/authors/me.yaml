@@ -50,7 +50,9 @@ education:
     summary: |
       Dissertation advisors: Federico Echenique, Matt Shum, and Leeat Yariv.
   - degree: B.A. in Economics
-    institution: University of Cambridge, United Kingdom
+    institution: |-
+      University of Cambridge,
+      United Kingdom
     # year: 2007–2010
     # start: 2007
     # end: 2010
