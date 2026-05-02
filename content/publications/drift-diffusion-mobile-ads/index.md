@@ -1,6 +1,6 @@
 ---
 title: "Combining Choices and Response Times in the Field: A Drift‑Diffusion Model of Mobile Advertisements"
-publication_order: 5
+publication_order: 6
 authors:
   - Khai Chiong
   - Matt Shum

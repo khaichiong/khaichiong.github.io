@@ -1,6 +1,6 @@
 ---
 title: "Getting the Most Out of Online A/B Tests Using the Minimax-Regret Criteria"
-publication_order: 8
+publication_order: 10
 authors:
   - Joonhwi Joo
   - Khai Chiong

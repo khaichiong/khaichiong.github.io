@@ -1,6 +1,6 @@
 ---
 title: "Can AI and AI‑Hybrids Detect Persuasion Skills? Salesforce Hiring with Conversational Video Interviews"
-publication_order: 6
+publication_order: 7
 authors:
   - Ishita Chakraborty
   - Khai Chiong

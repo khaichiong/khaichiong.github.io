@@ -4,20 +4,20 @@ publication_order: 9
 authors:
   - Khai Chiong
   - Anyan Qi
-date: "2026-04-26T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 publishDate: "2026-04-26T00:00:00Z"
 doi: ""
 
 publication_types: ["2"]
 
-publication: "Manufacturing & Service Operations Management (M&SOM), forthcoming"
-publication_short: "*Manufacturing & Service Operations Management* (M&SOM), forthcoming"
+publication: "Manufacturing & Service Operations Management (M&SOM), Volume 27, Issue 6, 2025, pages 1923-1938"
+publication_short: "*Manufacturing & Service Operations Management* (M&SOM), 27(6): 1923-1938"
 paper_url: "https://doi.org/10.1287/msom.2024.0925"
 
 abstract: ""
 
 summary: >
-  Accepted and forthcoming in Manufacturing & Service Operations Management.
+  Published in Manufacturing & Service Operations Management, 27(6): 1923-1938.
 
 tags:
   - Procurement Networks
@@ -33,4 +33,4 @@ projects: []
 slides: ""
 ---
 
-Accepted and forthcoming in *Manufacturing & Service Operations Management* (M&SOM).
+Published in *Manufacturing & Service Operations Management* (M&SOM), 27(6): 1923-1938.

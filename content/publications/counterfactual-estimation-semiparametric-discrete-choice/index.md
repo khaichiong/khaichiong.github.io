@@ -1,6 +1,6 @@
 ---
 title: "Counterfactual Estimation in Semiparametric Discrete‑Choice Models"
-publication_order: 10
+publication_order: 4
 authors:
   - Khai Chiong
   - Yu‑Wei Hsieh

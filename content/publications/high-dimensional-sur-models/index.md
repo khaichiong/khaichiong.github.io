@@ -1,6 +1,6 @@
 ---
 title: "Estimation of High‑Dimensional Seemingly Unrelated Regression Models"
-publication_order: 4
+publication_order: 5
 authors:
   - Lidan Tan
   - Khai Chiong
