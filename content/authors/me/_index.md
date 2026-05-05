@@ -51,6 +51,9 @@ social:
   - icon: github
     icon_pack: fab
     link: "https://github.com/khaichiong"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/khai-c/"
 
 # Contact email for Gravatar or contact widget
 email: "khai.chiong@utdallas.edu"

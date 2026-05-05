@@ -30,6 +30,9 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/khaichiong
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/khai-c/
+    label: LinkedIn
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=Xn4uFDUAAAAJ&hl=en&oi=ao
     label: Google Scholar
