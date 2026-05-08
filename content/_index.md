@@ -54,5 +54,5 @@ sections:
         kinds:
           - section
     design:
-      view: card
+      view: teaching
 ---
