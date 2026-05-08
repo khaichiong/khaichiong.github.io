@@ -1,7 +1,7 @@
 ---
 linkTitle: "MECO 7312"
 title: "MECO 7312: Advanced Statistics and Probability"
-summary: PhD-level probability and statistical inference for applied econometrics, covering random variables, distributions, asymptotics, hypothesis testing, Bayesian methods, and simulation.
+summary: "PhD-level probability and statistical inference for applied econometrics covering probability distributions, Frequentist and Bayesian estimation methods, hypothesis testing, and simulation. Required textbook: Statistical Inference by Casella and Berger."
 date: 2026-04-28
 type: docs
 
