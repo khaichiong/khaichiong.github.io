@@ -112,6 +112,10 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-hugo-resources-
 
+    - name: Prepare Tailwind CLI for Hugo
+      if: hashFiles('package.json') != ''
+      run: pnpm run prepare:tailwind
+
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
