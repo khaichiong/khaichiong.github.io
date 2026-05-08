@@ -50,8 +50,9 @@ sections:
     content:
       title: 'Teaching'
       filters:
-        folders:
-          - courses/meco-7312
+        tag: Course
+        kinds:
+          - section
     design:
       view: card
 ---
