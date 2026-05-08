@@ -1,7 +1,7 @@
 ---
 linkTitle: "MECO 7312"
 title: "MECO 7312: Advanced Statistics and Probability"
-summary: Syllabus and weekly lecture notes for MECO 7312.
+summary: PhD-level probability and statistical inference for applied econometrics, covering random variables, distributions, asymptotics, hypothesis testing, Bayesian methods, and simulation.
 date: 2026-04-28
 type: docs
 
