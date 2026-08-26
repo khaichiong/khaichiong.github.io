@@ -15,8 +15,6 @@ content_meta:
   trending: false
 ---
 
-This page contains materials for MECO 7312: Advanced Statistics and Probability.
-
 ## Syllabus
 
 - [Syllabus](/files/meco-7312/syllabus.pdf)
