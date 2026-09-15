@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Assistant Professor of Marketing"
+role: "Associate Professor of Marketing"
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: >
-  Khai X. Chiong is an assistant professor in the Marketing Area at the Naveen
+  Khai X. Chiong is an associate professor in the Marketing Area at the Naveen
   Jindal School of Management, University of Texas at Dallas. His research
   interests include Quantitative Marketing, Machine Learning, Econometrics,
   Networks, and Empirical Industrial Organization.
@@ -64,7 +64,7 @@ user_groups:
   - Visitors
 ---
 
-Khai X. Chiong is an assistant professor in the Marketing Area at the Naveen
+Khai X. Chiong is an associate professor in the Marketing Area at the Naveen
 Jindal School of Management at the University of Texas at Dallas. His research
 encompasses Quantitative Marketing, Machine Learning, Econometrics, Networks,
 and Empirical Industrial Organization. He obtained his Ph.D. in Social Sciences
